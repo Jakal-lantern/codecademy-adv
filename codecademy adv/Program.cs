@@ -86,6 +86,7 @@ namespace codecademy_adv
             }
 
             //Used to separate between codecademy and new code
+            //Also bc the code I wrote in codecademy is messy
             if (!moveOn)
             {
                 return;
